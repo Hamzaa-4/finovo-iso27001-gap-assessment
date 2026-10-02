@@ -107,6 +107,6 @@ The gap assessment defines prioritized remediation actions across three implemen
 * **Project:** Finovo Technologies ISMS Readiness Assessment
 * **Standard:** ISO/IEC 27001:2022 Annex A
 * **Role:** Information Security & GRC Analyst (Lead Assessor)
-* **Author** Muhammad Hamza
+* **Author:** Muhammad Hamza
 * **Date:** September 2026
 
