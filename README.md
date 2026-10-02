@@ -1,3 +1,4 @@
+
 # finovo-iso27001-gap-assessment
 Comprehensive ISO/IEC 27001:2022 Annex A ISMS Gap Assessment &amp; Governance Framework for Finovo (Fintech Platform).
 # Finovo Technologies — ISO/IEC 27001:2022 ISMS Gap Assessment & Audit Framework
@@ -102,6 +103,12 @@ The gap assessment defines prioritized remediation actions across three implemen
   * **Sheet 1 (`Cover Page`):** Metadata, document control, audit scope, classification, and dynamic `=COUNTIF` compliance counters.
   * **Sheet 2 (`ISMS Gap Assessment`):** Granular assessment across all 93 controls documenting *Current Status*, *Identified Gaps*, *Status*, *Observed Evidence*, *Actionable Recommendations*, and *Management Responses*.
 * **`README.md`**: Executive project overview, methodology, statistical summary, and remediation strategy.
+
+---
+
+## 📥 Download Assessment File
+
+👉 **[Click Here to Download Complete Audit Workbook (Excel .XLSX)](https://github.com/user-attachments/files/32953584/Finovo_ISMS_Gap_Assessment_Completed.xlsx)**
 
 ---
 
