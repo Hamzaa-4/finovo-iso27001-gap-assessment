@@ -9,9 +9,12 @@ Comprehensive ISO/IEC 27001:2022 Annex A ISMS Gap Assessment &amp; Governance Fr
 
 ---
 
-## 📌 Executive Summary & Organizational Context
+## 📌 Executive Summary & Project Context
 
-**Finovo** is an emerging cloud-native fintech payment service provider (PSP / EMI) managing high-concurrency transaction processing for **100,000 active customer wallets and merchant accounts**, powered by a workforce of **75 internal personnel** (45 Finance & Operations, 15 Core Engineering & DevOps, and 15 Executive, GRC, and Customer Support staff).
+> **Note:** This project is a comprehensive **simulated case study** developed to evaluate the information security and governance posture of a hypothetical cloud-native fintech payment provider (Finovo) against the ISO/IEC 27001:2022 standard.
+
+Finovo is modelled as an emerging payment service provider (PSP / EMI) managing high-concurrency transaction processing for 100,000 active customer wallets, with a 
+**75-member operational footprint**. (45 Finance & Operations, 15 Core Engineering & DevOps, and 15 Executive, GRC, and Customer Support staff).
 
 This repository contains the end-to-end **Baseline ISMS Gap Assessment & Audit Working Papers** conducted against the **ISO/IEC 27001:2022 Annex A** control framework. The objective of this assessment was to establish the organization's information security baseline posture, identify control non-conformities, capture ground-reality operational evidence, and deliver an actionable remediation roadmap prior to formal ISO/IEC 27001 Stage 1 certification and PCI-DSS compliance audits.
 
